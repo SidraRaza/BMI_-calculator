@@ -1,8 +1,8 @@
 import inquirer from "inquirer";
 
 const questions=[
-        {type:`number`, name:`weight`, message:`weight(kg):`},
-        {type:`number`, name:`height`, message:`height(m):`},
+        {type:`number`, name:`weight`, message:`Kindly enter your first no:`},
+        {type:`number`, name:`height`, message:`Kindly enter your second no:`},
 
 ];
 
